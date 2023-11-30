@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=gionare&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gionare&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=gionare&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gionare&theme=vision-friendly-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=gionare&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
 
 
 ### ✍️ Random Dev Quote
