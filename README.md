@@ -22,14 +22,10 @@ I'm GIORGI NAREKLISHVILI, a passionate junior Developer based in New York. Curre
 - 🌱 I’m currently studing in BitCamp🔥 and working on Projects.
 - 👯 I’m open to collaboration on Github projects.
 - 💬 Ask me about last Project.
-- 📫 How to reach me: gionare93@gmail.com or linkedin.com/gionare.
+- 📫 How to reach me: gionare93@gmail.com or [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gionare) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 🚵🚴🏎️.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gionare) 
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gionare) 
 
 ## 🏆 GitHub Trophies & Stats
 ![](https://github-profile-trophy.vercel.app/?username=gionare&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
@@ -43,7 +39,7 @@ I'm GIORGI NAREKLISHVILI, a passionate junior Developer based in New York. Curre
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=gionare&icon=8&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
