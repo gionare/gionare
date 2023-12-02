@@ -1,28 +1,11 @@
 ### Hi there 👋
-I'm GIORGI NAREKLISHVILI
-<!--
-**gionare/gionare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hi there 👋
 I'm GIORGI NAREKLISHVILI, a passionate junior Developer based in New York. Currently diving deep into creating heavy projects and always excited about improvements.
 
 - 🔭 I’m currently working on few Landing pages from Figma.
 - 🌱 I’m currently studing in BitCamp🔥 and working on Projects.
 - 👯 I’m open to collaboration on Github projects.
 - 💬 Ask me about last Project.
-- 📫 How to reach me: gionare93@gmail.com or [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gionare) 
+- 📫 How to reach me: gionare93@gmail.com or    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gionare) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 🚵🚴🏎️.
 
