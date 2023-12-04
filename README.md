@@ -5,13 +5,11 @@ I'm GIORGI NAREKLISHVILI, a passionate junior Developer based in New York. Curre
 - 🌱 I’m currently studing in BitCamp🔥 and working on Projects.
 - 👯 I’m open to collaboration on Github projects.
 - 💬 Ask me about last Project.
-- 📫 How to reach me: gionare93@gmail.com or    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gionare) 
+- 📫 How to reach me: gionare93@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 🚵🚴🏎️.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gionare) 
 
-
-## 🏆 GitHub Trophies & Stats
-![](https://github-profile-trophy.vercel.app/?username=gionare&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gionare&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gionare&theme=vision-friendly-dark&hide_border=true)<br/>
