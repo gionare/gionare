@@ -8,8 +8,21 @@ I'm GIORGI NAREKLISHVILI, a passionate junior Developer based in New York. Curre
 - 👯 I’m open to collaboration on Github projects.
 - 💬 Ask me about my latest ongoing Project.
 - 📫 How to reach me: gionare93@gmail.com 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 🚵🚴🏎️.
+- 📄 Know about my experiences 
+
+🖥 Frontend:
+
+    Language: JavaScript
+    Framework/Library: LOading ... ( React.js )
+    Structure / Styling: HTML / CSS
+    UI Toolkit: Figma
+    Utils: LOading ... ( Tailwind • Bootstrap )
+
+
+🎡 Ecosystem:
+
+    Containerization: Loading ... ( Docker • GitHub Codespaces )
+    Version Control: Git • GitHub
 
 
 
