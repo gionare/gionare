@@ -14,9 +14,9 @@ I'm GIORGI NAREKLISHVILI, a passionate junior Developer based in New York. Curre
 
     Language: JavaScript
     Framework/Library: LOading ... ( React.js )
-    Structure / Styling: HTML / CSS
+    Structure/Styling: HTML / CSS
     UI Toolkit: Figma
-    Utils: LOading ... ( Tailwind • Bootstrap )
+    Utils:  Tailwind • Bootstrap 
 
 
 🎡 Ecosystem:
