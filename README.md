@@ -27,6 +27,7 @@ I'm GIORGI NAREKLISHVILI, a passionate junior Developer based in New York. Curre
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gionare) 
+<a href="https://www.instagram.com/gionare" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gionare&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
@@ -34,7 +35,6 @@ I'm GIORGI NAREKLISHVILI, a passionate junior Developer based in New York. Curre
 ![](https://github-readme-stats.vercel.app/api?username=gionare&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 
-<a href="https://www.instagram.com/gionare" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <!-- 
 <a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
