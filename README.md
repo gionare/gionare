@@ -65,6 +65,6 @@ I'm GIORGI NAREKLISHVILI, a passionate junior Developer based in New York. Curre
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]([https://www.youtube.com/watch?v=SDkAGkd4NLc](https://portfolio-giorgi-nareklishvili.vercel.app/))
 
 
