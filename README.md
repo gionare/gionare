@@ -6,7 +6,6 @@
 ### Hi there 👋
 I'm GIORGI NAREKLISHVILI, a passionate Web Developer based in New York. Curently I'm diving deep into creating heavy projects and am always excited about improvements.
 
-- 🌱 I’m currently studing in BitCamp🔥 and working on Projects.
 - 👯 I’m open to collaboration on Github projects.
 - 💬 Ask me about my latest ongoing Project.
 - 📫 How to reach me: gionare93@gmail.com 
@@ -14,8 +13,8 @@ I'm GIORGI NAREKLISHVILI, a passionate Web Developer based in New York. Curently
 
 🖥 Frontend:
 
-    Language: JavaScript
-    Framework/Library: Loading ... ( React.js )
+    Language: JavaScript, Typescript
+    Framework/Library: Loading ... ( React.js, Next.js )
     Structure/Styling: HTML / CSS
     UI Toolkit: Figma
     Utils:  Tailwind • Bootstrap 
@@ -23,6 +22,7 @@ I'm GIORGI NAREKLISHVILI, a passionate Web Developer based in New York. Curently
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
  ... 
